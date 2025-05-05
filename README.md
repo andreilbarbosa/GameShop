@@ -11,4 +11,4 @@ Foi criado um gameshop junto com o Professor durante as aulas.
 
 #### Criação desse README é apenas para resumir o que foi feito e para um melhor entendimento do que se trata o repositório.
 
-##### Link Vercel: https://exercicio-plugins-jquery-ten-psi.vercel.app
+##### Link Vercel: gameshopsite.vercel.app
